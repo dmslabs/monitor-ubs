@@ -28,4 +28,8 @@ Basta clonar este repositório e disponibilizar os arquivos da pasta build. Para
 
 Inserir dados de licensa aqui.
 
-
+## Links
+* [Departamento de Medicina Social - UFPEL] [1]
+* [Kurt Kloetzel Plataforma Educacional de Saúde da Família] [2]
+  [1]: http://dms.ufpel.edu.br/    "Departamento de Medicina Social - UFPEL"
+  [2]: http://dms.ufpel.edu.br/p2k/  "Kurt Kloetzel Plataforma Educacional de Saúde da Família"
